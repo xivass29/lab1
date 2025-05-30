@@ -8,4 +8,5 @@
 1. Создать REST-сервис с использованием Spring Boot, Maven, Lombok.
 2. еализовать GET-эндпоинт, принимающий IP как query-параметр и возвращающий JSON с данными о местоположении.
 
-![Снимок экрана 2025-05-27 074224](https://github.com/user-attachments/assets/76c84467-4821-4bed-bfc7-04b37443526e)
+![image](https://github.com/user-attachments/assets/c71a5821-032c-4047-ba8d-547a6696a902)
+
